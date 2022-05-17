@@ -4,6 +4,8 @@ function Projects() {
   return (
     <div>
       
+      {/* Title, 4 project cards */}
+
     </div>
   )
 }
