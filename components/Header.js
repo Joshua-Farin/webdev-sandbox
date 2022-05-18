@@ -5,11 +5,14 @@ function Header() {
   return (
     <div>
         
-        <div className='flex items-center justify-between py-8 px-20 bg-[#06202A]'>
-            <p>About</p>
-            <p>Contact</p>
-            <p>Projects</p>
-            <MoonIcon className='h-7' />
+        <div className='flex flex-grow items-center justify-between py-8 px-20 bg-[#06202]'>
+          <p>About</p>
+          <p>Contact</p>
+          <p>Projects</p>
+        </div>
+
+        <div>
+          <MoonIcon className='h-7 outline rounded'/>
         </div>
         
             
